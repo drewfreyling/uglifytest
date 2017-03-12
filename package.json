@@ -1,0 +1,26 @@
+{
+  "name": "uglifytest",
+  "version": "1.0.0",
+  "description": "Sandbox test of uglify-js issue with uuid generation.",
+  "main": "main.js",
+  "dependencies": {
+    "gulp-uglify": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewfreyling/uglifytest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drewfreyling/uglifytest/issues"
+  },
+  "homepage": "https://github.com/drewfreyling/uglifytest#readme"
+}
